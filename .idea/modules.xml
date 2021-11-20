@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudAlibaba.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudAlibaba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum_factory_strategy/enum_factory_strategy.iml" filepath="$PROJECT_DIR$/enum_factory_strategy/enum_factory_strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-api/mayikt-member-service-api/mayikt-member-service-api.iml" filepath="$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-api/mayikt-member-service-api/mayikt-member-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-impl/mayikt-member-service-impl/mayikt-member-service-impl.iml" filepath="$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-impl/mayikt-member-service-impl/mayikt-member-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayiktmember2022/mayikt-member2022.iml" filepath="$PROJECT_DIR$/mayiktmember2022/mayikt-member2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayiktopefeignparent/mayikt-opefeign-parent.iml" filepath="$PROJECT_DIR$/mayiktopefeignparent/mayikt-opefeign-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-impl/mayikt-order-service-impl/mayikt-order-service-impl.iml" filepath="$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-impl/mayikt-order-service-impl/mayikt-order-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayiktorder2022/mayikt-order2022.iml" filepath="$PROJECT_DIR$/mayiktorder2022/mayikt-order2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-api/mayikt-service-api.iml" filepath="$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-api/mayikt-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-impl/mayikt-service-impl.iml" filepath="$PROJECT_DIR$/mayiktopefeignparent/mayikt-service-impl/mayikt-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayikt_meite_proxy/mayikt_meite_proxy.iml" filepath="$PROJECT_DIR$/mayikt_meite_proxy/mayikt_meite_proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mayikt_webservice_member/mayikt_webservice_member.iml" filepath="$PROJECT_DIR$/mayikt_webservice_member/mayikt_webservice_member.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mayiktmemberserviceapi" />
+        <module name="mayiktmemberserviceimpl" />
+        <module name="mayiktorderserviceimpl" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mayiktmemberserviceapi" options="-parameters" />
+      <module name="mayiktmemberserviceimpl" options="-parameters" />
+      <module name="mayiktopefeignparent" options="-parameters" />
+      <module name="mayiktorderserviceimpl" options="-parameters" />
+      <module name="mayiktserviceapi" options="-parameters" />
+      <module name="mayiktserviceimpl" options="-parameters" />
+    </option>
+  </component>
+</project>
