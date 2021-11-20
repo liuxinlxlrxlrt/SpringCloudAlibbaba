@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cafacfba-bdaa-4f3e-876d-ba4f8bf021dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/jdkimpl/JdkInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/jdkimpl/JdkInvocationHandler.java" afterDir="false" />
-    </list>
+    <list default="true" id="cafacfba-bdaa-4f3e-876d-ba4f8bf021dc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/enum_factory_strategy/target/" />
     <ignored path="$PROJECT_DIR$/mayikt_meite_proxy/target/" />
     <ignored path="$PROJECT_DIR$/mayikt_webservice_member/target/" />
@@ -180,16 +178,15 @@
       <workItem from="1632321238512" duration="426000" />
       <workItem from="1632370154472" duration="217000" />
       <workItem from="1632839120276" duration="228000" />
-      <workItem from="1637378630023" duration="267000" />
+      <workItem from="1637378630023" duration="517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8256000" />
+    <option name="totallyTimeSpent" value="8506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29830235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -224,7 +221,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="10" visible="true" weight="0.32983023" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2934519" />
