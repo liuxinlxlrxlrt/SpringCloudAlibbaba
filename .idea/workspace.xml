@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cafacfba-bdaa-4f3e-876d-ba4f8bf021dc" name="Default Changelist" comment="" />
+    <list default="true" id="cafacfba-bdaa-4f3e-876d-ba4f8bf021dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/jdkimpl/JdkInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/jdkimpl/JdkInvocationHandler.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/enum_factory_strategy/target/" />
     <ignored path="$PROJECT_DIR$/mayikt_meite_proxy/target/" />
     <ignored path="$PROJECT_DIR$/mayikt_webservice_member/target/" />
@@ -20,13 +22,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/jdkimpl/JdkInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/mayiktorder2022/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/ClientAutoJdkImplements.java" />
+        <option value="$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/jdkimpl/JdkInvocationHandler.java" />
       </list>
     </option>
   </component>
@@ -42,15 +61,26 @@
     <option name="width" value="1599" />
     <option name="height" value="993" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringCloudAlibaba" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloudAlibaba" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="CatdeaLogs" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,16 +180,18 @@
       <workItem from="1632321238512" duration="426000" />
       <workItem from="1632370154472" duration="217000" />
       <workItem from="1632839120276" duration="228000" />
+      <workItem from="1637378630023" duration="267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7989000" />
+    <option name="totallyTimeSpent" value="8256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2934519" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29830235" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -177,7 +209,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.330373" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
@@ -432,16 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/jdkimpl/JdkInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/cglibimpl/CglibMethodInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -467,6 +489,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="5" column="29" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mayikt_meite_proxy/src/main/java/com/mayikt/service/jdkimpl/JdkInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

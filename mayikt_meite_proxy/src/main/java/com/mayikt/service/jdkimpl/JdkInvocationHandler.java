@@ -20,7 +20,6 @@ public class JdkInvocationHandler implements InvocationHandler {
         Object result = method.invoke(target, args);//反射机制执行目标的方法
 
         System.out.println(">>>jdk打印订单日志结束");
-re
         return result;
     }
 
